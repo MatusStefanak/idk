@@ -1,8 +1,8 @@
 .nui_bot_toolbox {
     position: absolute;
-    top: 222px;
+    top: 280px; 
     z-index: 10;
-    left: 200
+    left: 0
 }
 
 #premium-bot {
